@@ -1,0 +1,10 @@
+skin: default 
+google_fonts:
+  - name: "Playfair Display"
+    weights: "400,400i,500,500i,600"
+t:
+  home: "Hem"
+  email: "E-post"
+navigation_pages:
+  - about.markdown
+  - prices.markdown

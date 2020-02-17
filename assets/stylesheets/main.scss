@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Overrides
+$base-font-family: 'Playfair Display', sans-serif;
+$background-color: rgb(241,240,232);
+
+$site-image-width: 200px;
+$site-image-height: 148px;
+
+.site-logo {
+  border-radius: 0 !important;
+}
+
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
