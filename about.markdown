@@ -4,7 +4,7 @@ title: Om mig
 permalink: /om-mig/
 ---
 
-![Me](/assets/images/emie.png)
+<img src="/assets/images/emie.png" style="height:300px" />
 
 Mitt namn är Emie och min stora dröm sen barnsben har varit att äga min egna salong.
 Efter att jag tog studenten 2015 har jag hunnit med att ta min 

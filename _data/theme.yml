@@ -7,4 +7,5 @@ t:
   email: "E-post"
 navigation_pages:
   - about.markdown
+  - contact.markdown
   - prices.markdown
