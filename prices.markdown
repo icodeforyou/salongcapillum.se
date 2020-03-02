@@ -4,10 +4,10 @@ title: Prislista
 permalink: /prislista/
 ---
 
-* Klippning - 450-490kr
+* Klippning - 520kr
 * Klippning puts - 225kr
 * Lugg - 100kr
-* Barnklipp - 320-400kr
+* Barnklipp - 340kr
 * Färg från - 890-1440kr
 * Slingor från - 1040-1590kr
 * Olaplex - 350kr
@@ -22,4 +22,4 @@ permalink: /prislista/
 * Uppsättning - 990kr
 * Bruduppsättning från -1700kr
 
-Alla priser varierar efter materialkostnad, tid och tjocklek på håret. 
+Alla priser varierar efter materialkostnad, tid och tjocklek på håret.
