@@ -1,2 +1,2 @@
-# Salongcapillum.se
-Emies salong i Falkenberg
+# Salongcapillum.se ([https://app.netlify.com](Netlify))
+Emies salong i Falkenberg 
